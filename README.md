@@ -42,28 +42,27 @@
   <img src="https://img.shields.io/badge/STATUS-CODING-E879F9?style=for-the-badge"/>
 </p>
 
-👩‍🚀 ABOUT ME
-
+<h2 align="center">👾 ABOUT ME</h2>
 - 🚀 Hey! I'm Shreya.
 - 🐍 Currently learning Python.
 - 💻 Practicing programming and GitHub.
 - 🌟 Building small projects and improving my skills.
 - 👾 My mission: Become a great developer!
 
-🛠️ MY CREWMATE TOOLKIT
+<h2 align="center">🛠️ MY CREWMATE TOOLKIT</h2>
 
 <p align="center">
+
   🐍 Python | 💻 VS Code | 🐙 GitHub | 🔧 Git
-</p>📂 MY SPACE MISSIONS
+</p>
 
-- 🟢 Python Codes
-- 🔵 Demo Testing GitHub
-- 🟣 GitHub Agent
-
-📊 MY GITHUB STATS
-
-"GitHub Stats" 
----
+<h2 align="center">🚀 MY SPACE MISSIONS</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-9D4EDD?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-E879F9?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-5A189A?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 <h2 align="center">📊 MY GITHUB STATS</h2>
 
