@@ -33,23 +33,26 @@
 📊 MY GITHUB STATS
 
 "GitHub Stats" 
+---
+
 <h2 align="center">📊 MY GITHUB STATS</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shreya1229s&show_icons=true&theme=midnight-purple&hide_border=true"
-    width="100%"
-    alt="GitHub Stats"
-  />
+  <img src="https://img.shields.io/badge/GitHub-Shreya1229s-purple?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Python-Learner-blue?style=for-the-badge&logo=python" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya1229s&layout=compact&theme=midnight-purple&hide_border=true"
-    alt="Most Used Languages"
-  />
+  <a href="https://github.com/shreya1229s">
+    🌌 VISIT MY GITHUB PROFILE
+  </a>
 </p>
 
+<p align="center">
+  🚀 Keep Coding | Keep Exploring | Stay Curious
+</p>
+
+---
 <h2 align="center">🌌 CURRENT MISSION</h2>
 
 <p align="center">
