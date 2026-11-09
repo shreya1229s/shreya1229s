@@ -32,19 +32,31 @@
 
 📊 MY GITHUB STATS
 
-"GitHub Stats" <h2 align="center">📊 MY GITHUB STATS</h2>
+"GitHub Stats" 
+<h2 align="center">📊 MY GITHUB STATS</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreya1229s&show_icons=true&theme=midnight-purple&hide_border=true" width="100%">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shreya1229s&show_icons=true&theme=midnight-purple&hide_border=true"
+    width="100%"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya1229s&layout=compact&theme=midnight-purple&hide_border=true">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya1229s&layout=compact&theme=midnight-purple&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
-🌌 CURRENT MISSION
 
-Learning Python and exploring new coding galaxies!
+<h2 align="center">🌌 CURRENT MISSION</h2>
 
 <p align="center">
+  Learning Python and exploring new coding galaxies!
+</p>
+
+<h3 align="center">
   🚀 THANKS FOR VISITING MY SPACE STATION! 👾
-</p>
+</h3>
+
