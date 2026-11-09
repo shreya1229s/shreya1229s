@@ -10,7 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E879F9&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Shreya+%F0%9F%91%BE;Welcome+to+my+Space+Station+%F0%9F%9A%80;Python+Learner+%F0%9F%90%8D;Future+Developer+%F0%9F%92%9C" />
 </p>
 
-🚀 WELCOME TO MY SPACE STATION!
 
 <h1 align="center">👾 HI, I'M SHREYA!</h1><h3 align="center">🚀 Crewmate Developer | Python Learner</h3><p align="center">
   🌌 Exploring the coding universe, one line at a time!
