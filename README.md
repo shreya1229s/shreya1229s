@@ -32,8 +32,15 @@
 
 📊 MY GITHUB STATS
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=shreya1229s&show_icons=true&theme=tokyonight)
+"GitHub Stats" <h2 align="center">📊 MY GITHUB STATS</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreya1229s&show_icons=true&theme=midnight-purple&hide_border=true" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya1229s&layout=compact&theme=midnight-purple&hide_border=true">
+</p>
 🌌 CURRENT MISSION
 
 Learning Python and exploring new coding galaxies!
