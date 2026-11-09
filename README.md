@@ -1,16 +1,35 @@
-## Hi there 👋
+🚀 WELCOME TO MY SPACE STATION!
 
-<!--
-**shreya1229s/shreya1229s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👾 HI, I'M SHREYA!</h1><h3 align="center">🚀 Crewmate Developer | Python Learner</h3><p align="center">
+  🌌 Exploring the coding universe, one line at a time!
+</p>---
 
-Here are some ideas to get you started:
+👩‍🚀 ABOUT ME
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Hey! I'm Shreya.
+- 🐍 Currently learning Python.
+- 💻 Practicing programming and GitHub.
+- 🌟 Building small projects and improving my skills.
+- 👾 My mission: Become a great developer!
+
+🛠️ MY CREWMATE TOOLKIT
+
+<p align="center">
+  🐍 Python | 💻 VS Code | 🐙 GitHub | 🔧 Git
+</p>📂 MY SPACE MISSIONS
+
+- 🟢 Python Codes
+- 🔵 Demo Testing GitHub
+- 🟣 GitHub Agent
+
+📊 MY GITHUB STATS
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=shreya1229s&show_icons=true&theme=tokyonight)
+
+🌌 CURRENT MISSION
+
+Learning Python and exploring new coding galaxies!
+
+<p align="center">
+  🚀 THANKS FOR VISITING MY SPACE STATION! 👾
+</p>
