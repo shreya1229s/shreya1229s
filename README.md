@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/among-us-banner.png" width="100%">
+  <img src="./assets/among-us-banner.svg" width="100%" alt="Among Us Banner">
 </p>
 
 🚀 WELCOME TO MY SPACE STATION!
