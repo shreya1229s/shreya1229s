@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/among-us-banner.svg" width="100%" alt="Among Us Space Banner">
+</p>
+
 🚀 WELCOME TO MY SPACE STATION!
 
 <h1 align="center">👾 HI, I'M SHREYA!</h1><h3 align="center">🚀 Crewmate Developer | Python Learner</h3><p align="center">
