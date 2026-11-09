@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350">
+<defs>
+  <linearGradient id="bg" x2="1" y2="1">
+    <stop stop-color="#080b25"/>
+    <stop offset="1" stop-color="#40105f"/>
+  </linearGradient>
+  <linearGradient id="pink" x2="1">
+    <stop stop-color="#a855f7"/>
+    <stop offset="1" stop-color="#ff4fbd"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="350" rx="25" fill="url(#bg)"/>
+<g fill="#fff">
+  <circle cx="80" cy="65" r="3"/><circle cx="190" cy="240" r="3"/>
+  <circle cx="350" cy="70" r="2"/><circle cx="520" cy="260" r="3"/>
+  <circle cx="740" cy="60" r="3"/><circle cx="960" cy="250" r="2"/>
+  <circle cx="1100" cy="75" r="3"/><circle cx="850" cy="180" r="2"/>
+</g>
+<circle cx="1040" cy="90" r="85" fill="#7026ba" opacity=".65"/>
+<circle cx="1040" cy="90" r="65" fill="#a45bdf" opacity=".5"/>
+<g transform="translate(120 55)">
+  <path d="M65 45 Q65 0 120 0 Q175 0 175 55 L185 205 Q180 240 145 240 L75 240 Q40 240 40 205 Z" fill="#e60050" stroke="#08051a" stroke-width="12"/>
+  <rect x="78" y="65" width="105" height="65" rx="32" fill="#50cfff" stroke="#08051a" stroke-width="11"/>
+  <path d="M95 80 Q125 65 155 83" stroke="white" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M75 20 L90 -20 L120 5 L145 -25 L160 25" fill="#ffcf42" stroke="#08051a" stroke-width="8"/>
+</g>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+  <text x="720" y="145" font-size="55" font-weight="bold" fill="#ff8be4">DREAM • CODE • EXPLORE</text>
+  <text x="720" y="205" font-size="30" fill="#ffffff">WELCOME TO SHREYA'S SPACE STATION</text>
+  <text x="720" y="260" font-size="24" fill="#cda5ff">Python Learner | Future Developer</text>
+</g>
+</svg>
