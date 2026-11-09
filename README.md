@@ -1,4 +1,10 @@
-assets/file_00000000bb6c82118a937581ee463d2a.png
+<p align="center">
+  <img
+    src="assets/file_00000000bb6c82118a937581ee463d2a.png"
+    alt="Shreya Among Us Banner"
+    width="100%"
+  />
+</p>
 
 🚀 WELCOME TO MY SPACE STATION!
 
