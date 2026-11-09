@@ -13,7 +13,7 @@
 
 <h1 align="center">👾 HI, I'M SHREYA!</h1><h3 align="center">🚀 Crewmate Developer | Python Learner</h3><p align="center">
   🌌 Exploring the coding universe, one line at a time!
-</p>---
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif"
@@ -22,8 +22,19 @@
 </p>
 
 <h2 align="center">
-  👾 WELCOME TO MY SPACE STATION 👾
-  <h2 align="center">🌌 MY CODING UNIVERSE</h2>
+
+  <h1 align="center">
+  👾 WELCOME, CREWMATE!
+</h1>
+<p align="center">
+  <i>You've entered Shreya's Coding Galaxy 🚀</i>
+</p>
+<h2 align="center">
+  🌌 MY CODING UNIVERSE 👾
+</h2>
+<p align="center">
+  <i>Where creativity meets code 🚀</i>
+</p>
 
 <p align="center">
   💜 DREAM BIG
@@ -43,17 +54,24 @@
 </p>
 
 <h2 align="center">👾 ABOUT ME</h2>
-- 🚀 Hey! I'm Shreya.
-- 🐍 Currently learning Python.
-- 💻 Practicing programming and GitHub.
-- 🌟 Building small projects and improving my skills.
-- 👾 My mission: Become a great developer!
+<p align="center">
+  👾 <b>CREWMATE:</b> Shreya<br/>
+  🐍 <b>LEARNING:</b> Python<br/>
+  💻 <b>EXPLORING:</b> GitHub & Programming<br/>
+  🚀 <b>MISSION:</b> Building cool projects<br/>
+  🌌 <b>GOAL:</b> Becoming a Developer
+</p>
 
 <h2 align="center">🛠️ MY CREWMATE TOOLKIT</h2>
 
 <p align="center">
 
-  🐍 Python | 💻 VS Code | 🐙 GitHub | 🔧 Git
+  <p align="center">
+  <img src="https://img.shields.io/badge/Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-9D4EDD?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-E879F9?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-5A189A?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 </p>
 
 <h2 align="center">🚀 MY SPACE MISSIONS</h2>
@@ -83,6 +101,11 @@
 
 ---
 <h2 align="center">🌌 CURRENT MISSION</h2>
+<p align="center">
+  🌌 Exploring the coding universe<br/>
+  🐍 Learning Python step by step<br/>
+  🚀 Building my developer journey
+</p>
 
 <p align="center">
   Learning Python and exploring new coding galaxies!
@@ -91,4 +114,7 @@
 <h3 align="center">
   🚀 THANKS FOR VISITING MY SPACE STATION! 👾
 </h3>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/CREWMATE-ONLINE-9D4EDD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IMPOSTOR-UNKNOWN-E879F9?style=for-the-badge"/>
+</p>
