@@ -54,7 +54,7 @@
 </p>
 
 <h2 align="center">👾 ABOUT ME</h2>
-<p align="center">
+<p align="left">
   👾 <b>CREWMATE:</b> Shreya<br/>
   🐍 <b>LEARNING:</b> Python<br/>
   💻 <b>EXPLORING:</b> GitHub & Programming<br/>
@@ -75,11 +75,15 @@
 </p>
 
 <h2 align="center">🚀 MY SPACE MISSIONS</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-9D4EDD?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-E879F9?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-5A189A?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="centre">
+  <a href="https://github.com/shreya1229s/Python_codes">
+    <img src="https://img.shields.io/badge/PYTHON_CODES-My_Practice_Repository-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="centre">
+  🐍 My Python Coding Practice<br/>
+  🚀 Learning • Practicing • Improving
 </p>
 
 <h2 align="center">📊 MY GITHUB STATS</h2>
