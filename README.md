@@ -75,13 +75,13 @@
 </p>
 
 <h2 align="center">🚀 MY SPACE MISSIONS</h2>
-<p align="centre">
+<p align="center">
   <a href="https://github.com/shreya1229s/Python_codes">
     <img src="https://img.shields.io/badge/PYTHON_CODES-My_Practice_Repository-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<p align="centre">
+<p align="left">
   🐍 My Python Coding Practice<br/>
   🚀 Learning • Practicing • Improving
 </p>
