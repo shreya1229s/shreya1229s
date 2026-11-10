@@ -106,13 +106,14 @@
 ---
 <h2 align="center">🌌 CURRENT MISSION</h2>
 <p align="center">
-  🌌 Exploring the coding universe<br/>
-  🐍 Learning Python step by step<br/>
-  🚀 Building my developer journey
+  <img src="https://img.shields.io/badge/🚨_MISSION_STATUS-LEARNING-red?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  Learning Python and exploring new coding galaxies!
+<p align="left">
+  🐍 <b>MISSION 01</b> — Learning Python line by line<br/><br/>
+  💻 <b>MISSION 02</b> — Build Cool Coding Projects<br/><br/>
+  👾 <b>MISSION 03</b> — Exploring the coding galaxies<br/><br/>
+  🚀 <b>MISSION 04</b> — Become a Skilled Developer
 </p>
 
 <h3 align="center">
@@ -121,4 +122,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CREWMATE-ONLINE-9D4EDD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/IMPOSTOR-UNKNOWN-E879F9?style=for-the-badge"/>
+</p>
+<p align="center">
+  <i>One mission at a time. No task left unfinished.</i>
 </p>
